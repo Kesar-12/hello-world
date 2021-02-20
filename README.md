@@ -1,2 +1,3 @@
 # hello-world
 this is my first github project and im very excited to learn this...
+I am Kesar. I like to do coding and spend most of my time in coding. I like to learn differnt things and like to create different stuff. I love computers and its my fav subject.
